@@ -1,0 +1,224 @@
+E:\11mayısYeniRentAcar\RentACarOtomasyon\BLL\bin\Debug\BLL.dll
+E:\11mayısYeniRentAcar\RentACarOtomasyon\BLL\bin\Debug\BLL.pdb
+E:\11mayısYeniRentAcar\RentACarOtomasyon\BLL\bin\Debug\DAL.dll
+E:\11mayısYeniRentAcar\RentACarOtomasyon\BLL\bin\Debug\Entity.dll
+E:\11mayısYeniRentAcar\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.dll
+E:\11mayısYeniRentAcar\RentACarOtomasyon\BLL\bin\Debug\DAL.pdb
+E:\11mayısYeniRentAcar\RentACarOtomasyon\BLL\bin\Debug\DAL.dll.config
+E:\11mayısYeniRentAcar\RentACarOtomasyon\BLL\bin\Debug\Entity.pdb
+E:\11mayısYeniRentAcar\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.xml
+E:\11mayısYeniRentAcar\RentACarOtomasyon\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\11mayısYeniRentAcar\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\11mayısYeniRentAcar\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\11mayısYeniRentAcar\RentACarOtomasyon\BLL\obj\Debug\BLL.dll
+E:\11mayısYeniRentAcar\RentACarOtomasyon\BLL\obj\Debug\BLL.pdb
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\BLL\bin\Debug\BLL.dll
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\BLL\bin\Debug\BLL.pdb
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\BLL\bin\Debug\DAL.dll
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\BLL\bin\Debug\Entity.dll
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.dll
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\BLL\bin\Debug\DAL.pdb
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\BLL\bin\Debug\DAL.dll.config
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\BLL\bin\Debug\Entity.pdb
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.xml
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\BLL\obj\Debug\BLL.dll
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\BLL\obj\Debug\BLL.pdb
+E:\songüncel\RentACarOtomasyon\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\songüncel\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\songüncel\RentACarOtomasyon\BLL\obj\Debug\BLL.dll
+E:\songüncel\RentACarOtomasyon\BLL\obj\Debug\BLL.pdb
+E:\songüncel\RentACarOtomasyon\BLL\bin\Debug\BLL.dll
+E:\songüncel\RentACarOtomasyon\BLL\bin\Debug\BLL.pdb
+E:\songüncel\RentACarOtomasyon\BLL\bin\Debug\DAL.dll
+E:\songüncel\RentACarOtomasyon\BLL\bin\Debug\Entity.dll
+E:\songüncel\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.dll
+E:\songüncel\RentACarOtomasyon\BLL\bin\Debug\DAL.pdb
+E:\songüncel\RentACarOtomasyon\BLL\bin\Debug\DAL.dll.config
+E:\songüncel\RentACarOtomasyon\BLL\bin\Debug\Entity.pdb
+E:\songüncel\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.xml
+E:\songüncel\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\lastest\RentACarOtomasyon\BLL\bin\Debug\BLL.dll
+E:\lastest\RentACarOtomasyon\BLL\bin\Debug\BLL.pdb
+E:\lastest\RentACarOtomasyon\BLL\bin\Debug\DAL.dll
+E:\lastest\RentACarOtomasyon\BLL\bin\Debug\Entity.dll
+E:\lastest\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.dll
+E:\lastest\RentACarOtomasyon\BLL\bin\Debug\DAL.pdb
+E:\lastest\RentACarOtomasyon\BLL\bin\Debug\DAL.dll.config
+E:\lastest\RentACarOtomasyon\BLL\bin\Debug\Entity.pdb
+E:\lastest\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.xml
+E:\lastest\RentACarOtomasyon\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\lastest\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\lastest\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\lastest\RentACarOtomasyon\BLL\obj\Debug\BLL.dll
+E:\lastest\RentACarOtomasyon\BLL\obj\Debug\BLL.pdb
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\bin\Debug\BLL.dll
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\bin\Debug\BLL.pdb
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\bin\Debug\DAL.dll
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\bin\Debug\Entity.dll
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.dll
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\bin\Debug\DAL.pdb
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\bin\Debug\DAL.dll.config
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\bin\Debug\Entity.pdb
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.xml
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\obj\Debug\BLL.dll
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\obj\Debug\BLL.pdb
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\bin\Debug\BLL.dll
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\bin\Debug\BLL.pdb
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\bin\Debug\DAL.dll
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\bin\Debug\Entity.dll
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.dll
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\bin\Debug\DAL.pdb
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\bin\Debug\DAL.dll.config
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\bin\Debug\Entity.pdb
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.xml
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\obj\Debug\BLL.dll
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\BLL\obj\Debug\BLL.pdb
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\BLL\bin\Debug\BLL.dll
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\BLL\bin\Debug\BLL.pdb
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\BLL\bin\Debug\DAL.dll
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\BLL\bin\Debug\Entity.dll
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.dll
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\BLL\bin\Debug\DAL.pdb
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\BLL\bin\Debug\DAL.dll.config
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\BLL\bin\Debug\Entity.pdb
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.xml
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\BLL\obj\Debug\BLL.dll
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\BLL\obj\Debug\BLL.pdb
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\BLL\bin\Debug\BLL.dll
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\BLL\bin\Debug\BLL.pdb
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\BLL\bin\Debug\DAL.dll
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\BLL\bin\Debug\Entity.dll
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.dll
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\BLL\bin\Debug\DAL.pdb
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\BLL\bin\Debug\DAL.dll.config
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\BLL\bin\Debug\Entity.pdb
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.xml
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\BLL\obj\Debug\BLL.dll
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\BLL\obj\Debug\BLL.pdb
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\BLL\bin\Debug\BLL.dll
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\BLL\bin\Debug\BLL.pdb
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\BLL\bin\Debug\DAL.dll
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\BLL\bin\Debug\Entity.dll
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.dll
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\BLL\bin\Debug\DAL.pdb
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\BLL\bin\Debug\DAL.dll.config
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\BLL\bin\Debug\Entity.pdb
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.xml
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\BLL\obj\Debug\BLL.dll
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\BLL\obj\Debug\BLL.pdb
+D:\1505rentecar\RentACarOtomasyon\BLL\bin\Debug\BLL.dll
+D:\1505rentecar\RentACarOtomasyon\BLL\bin\Debug\BLL.pdb
+D:\1505rentecar\RentACarOtomasyon\BLL\bin\Debug\DAL.dll
+D:\1505rentecar\RentACarOtomasyon\BLL\bin\Debug\Entity.dll
+D:\1505rentecar\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.dll
+D:\1505rentecar\RentACarOtomasyon\BLL\bin\Debug\DAL.pdb
+D:\1505rentecar\RentACarOtomasyon\BLL\bin\Debug\DAL.dll.config
+D:\1505rentecar\RentACarOtomasyon\BLL\bin\Debug\Entity.pdb
+D:\1505rentecar\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.xml
+D:\1505rentecar\RentACarOtomasyon\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\1505rentecar\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\1505rentecar\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\1505rentecar\RentACarOtomasyon\BLL\obj\Debug\BLL.dll
+D:\1505rentecar\RentACarOtomasyon\BLL\obj\Debug\BLL.pdb
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\BLL\bin\Debug\BLL.dll
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\BLL\bin\Debug\BLL.pdb
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\BLL\bin\Debug\DAL.dll
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\BLL\bin\Debug\Entity.dll
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.dll
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\BLL\bin\Debug\DAL.pdb
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\BLL\bin\Debug\DAL.dll.config
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\BLL\bin\Debug\Entity.pdb
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.xml
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\BLL\obj\Debug\BLL.dll
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\BLL\obj\Debug\BLL.pdb
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\BLL\bin\Debug\BLL.dll
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\BLL\bin\Debug\BLL.pdb
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\BLL\bin\Debug\DAL.dll
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\BLL\bin\Debug\Entity.dll
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.dll
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\BLL\bin\Debug\DAL.pdb
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\BLL\bin\Debug\DAL.dll.config
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\BLL\bin\Debug\Entity.pdb
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.xml
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\BLL\obj\Debug\BLL.dll
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\BLL\obj\Debug\BLL.pdb
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\BLL\bin\Debug\BLL.dll
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\BLL\bin\Debug\BLL.pdb
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\BLL\bin\Debug\DAL.dll
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\BLL\bin\Debug\Entity.dll
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.dll
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\BLL\bin\Debug\DAL.pdb
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\BLL\bin\Debug\DAL.dll.config
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\BLL\bin\Debug\Entity.pdb
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.xml
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\BLL\obj\Debug\BLL.dll
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\BLL\obj\Debug\BLL.pdb
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\BLL.dll
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\BLL.pdb
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\DAL.dll
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\Entity.dll
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.dll
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\DAL.pdb
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\DAL.dll.config
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\Entity.pdb
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.xml
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\obj\Debug\BLL.dll
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\obj\Debug\BLL.pdb
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\obj\Debug\BLL.dll
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\obj\Debug\BLL.pdb
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\BLL.dll
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\BLL.pdb
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\DAL.dll
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\Entity.dll
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.dll
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\DAL.pdb
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\DAL.dll.config
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\Entity.pdb
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.xml
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\BLL.dll
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\BLL.pdb
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\DAL.dll
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\Entity.dll
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.dll
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\DAL.pdb
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\DAL.dll.config
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\Entity.pdb
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\bin\Debug\EntityFramework.xml
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\obj\Debug\BLL.dll
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\BLL\obj\Debug\BLL.pdb

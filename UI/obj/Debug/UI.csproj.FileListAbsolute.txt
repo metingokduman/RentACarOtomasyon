@@ -1,0 +1,508 @@
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\bin\Debug\UI.exe.config
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\bin\Debug\UI.exe
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\bin\Debug\UI.pdb
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\bin\Debug\BLL.dll
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\bin\Debug\Entity.dll
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\bin\Debug\EntityFramework.dll
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.dll
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\bin\Debug\DAL.dll
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\bin\Debug\BLL.pdb
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\bin\Debug\Entity.pdb
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\bin\Debug\EntityFramework.xml
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.xml
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\bin\Debug\DAL.pdb
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\bin\Debug\DAL.dll.config
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\obj\Debug\UI.csprojAssemblyReference.cache
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\obj\Debug\UI.AdminAddCar.resources
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\obj\Debug\UI.AdminAddModerator.resources
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\obj\Debug\UI.AdminDeleteCar.resources
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\obj\Debug\UI.AdminInterFace.resources
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\obj\Debug\UI.AdminUpdateCarInformation.resources
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\obj\Debug\UI.CustomerRentForm.resources
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\obj\Debug\UI.LoginForm.resources
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\obj\Debug\UI.Properties.Resources.resources
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\obj\Debug\UI.UserInterFace.resources
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\obj\Debug\UI.csproj.GenerateResource.cache
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CopyComplete
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\obj\Debug\UI.exe
+E:\11mayısYeniRentAcar\RentACarOtomasyon\UI\obj\Debug\UI.pdb
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\bin\Debug\UI.exe.config
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\bin\Debug\UI.exe
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\bin\Debug\UI.pdb
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\bin\Debug\BLL.dll
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\bin\Debug\Entity.dll
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\bin\Debug\EntityFramework.dll
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.dll
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\bin\Debug\DAL.dll
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\bin\Debug\BLL.pdb
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\bin\Debug\Entity.pdb
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\bin\Debug\EntityFramework.xml
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.xml
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\bin\Debug\DAL.pdb
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\bin\Debug\DAL.dll.config
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\obj\Debug\UI.csprojAssemblyReference.cache
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\obj\Debug\UI.AdminAddCar.resources
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\obj\Debug\UI.AdminAddModerator.resources
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\obj\Debug\UI.AdminDeleteCar.resources
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\obj\Debug\UI.AdminInterFace.resources
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\obj\Debug\UI.AdminUpdateCarInformation.resources
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\obj\Debug\UI.CustomerRentForm.resources
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\obj\Debug\UI.LoginForm.resources
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\obj\Debug\UI.Properties.Resources.resources
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\obj\Debug\UI.UserInterFace.resources
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\obj\Debug\UI.csproj.GenerateResource.cache
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CopyComplete
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\obj\Debug\UI.exe
+E:\11mayısYeniRentAcar - Kopya (2)\RentACarOtomasyon\UI\obj\Debug\UI.pdb
+E:\songüncel\RentACarOtomasyon\UI\bin\Debug\UI.exe.config
+E:\songüncel\RentACarOtomasyon\UI\bin\Debug\UI.exe
+E:\songüncel\RentACarOtomasyon\UI\bin\Debug\UI.pdb
+E:\songüncel\RentACarOtomasyon\UI\bin\Debug\BLL.dll
+E:\songüncel\RentACarOtomasyon\UI\bin\Debug\Entity.dll
+E:\songüncel\RentACarOtomasyon\UI\bin\Debug\EntityFramework.dll
+E:\songüncel\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.dll
+E:\songüncel\RentACarOtomasyon\UI\bin\Debug\DAL.dll
+E:\songüncel\RentACarOtomasyon\UI\bin\Debug\BLL.pdb
+E:\songüncel\RentACarOtomasyon\UI\bin\Debug\Entity.pdb
+E:\songüncel\RentACarOtomasyon\UI\bin\Debug\EntityFramework.xml
+E:\songüncel\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.xml
+E:\songüncel\RentACarOtomasyon\UI\bin\Debug\DAL.pdb
+E:\songüncel\RentACarOtomasyon\UI\bin\Debug\DAL.dll.config
+E:\songüncel\RentACarOtomasyon\UI\obj\Debug\UI.csprojAssemblyReference.cache
+E:\songüncel\RentACarOtomasyon\UI\obj\Debug\UI.AdminAddCar.resources
+E:\songüncel\RentACarOtomasyon\UI\obj\Debug\UI.AdminAddModerator.resources
+E:\songüncel\RentACarOtomasyon\UI\obj\Debug\UI.AdminDeleteCar.resources
+E:\songüncel\RentACarOtomasyon\UI\obj\Debug\UI.AdminInterFace.resources
+E:\songüncel\RentACarOtomasyon\UI\obj\Debug\UI.AdminUpdateCarInformation.resources
+E:\songüncel\RentACarOtomasyon\UI\obj\Debug\UI.CustomerRentForm.resources
+E:\songüncel\RentACarOtomasyon\UI\obj\Debug\UI.LoginForm.resources
+E:\songüncel\RentACarOtomasyon\UI\obj\Debug\UI.Properties.Resources.resources
+E:\songüncel\RentACarOtomasyon\UI\obj\Debug\UI.UserInterFace.resources
+E:\songüncel\RentACarOtomasyon\UI\obj\Debug\UI.csproj.GenerateResource.cache
+E:\songüncel\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\songüncel\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CopyComplete
+E:\songüncel\RentACarOtomasyon\UI\obj\Debug\UI.exe
+E:\songüncel\RentACarOtomasyon\UI\obj\Debug\UI.pdb
+E:\ensongüncel\RentACarOtomasyon\UI\bin\Debug\UI.exe.config
+E:\ensongüncel\RentACarOtomasyon\UI\bin\Debug\UI.exe
+E:\ensongüncel\RentACarOtomasyon\UI\bin\Debug\UI.pdb
+E:\ensongüncel\RentACarOtomasyon\UI\bin\Debug\BLL.dll
+E:\ensongüncel\RentACarOtomasyon\UI\bin\Debug\Entity.dll
+E:\ensongüncel\RentACarOtomasyon\UI\bin\Debug\EntityFramework.dll
+E:\ensongüncel\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.dll
+E:\ensongüncel\RentACarOtomasyon\UI\bin\Debug\DAL.dll
+E:\ensongüncel\RentACarOtomasyon\UI\bin\Debug\BLL.pdb
+E:\ensongüncel\RentACarOtomasyon\UI\bin\Debug\Entity.pdb
+E:\ensongüncel\RentACarOtomasyon\UI\bin\Debug\EntityFramework.xml
+E:\ensongüncel\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.xml
+E:\ensongüncel\RentACarOtomasyon\UI\bin\Debug\DAL.pdb
+E:\ensongüncel\RentACarOtomasyon\UI\bin\Debug\DAL.dll.config
+E:\ensongüncel\RentACarOtomasyon\UI\obj\Debug\UI.csprojAssemblyReference.cache
+E:\ensongüncel\RentACarOtomasyon\UI\obj\Debug\UI.AdminAddCar.resources
+E:\ensongüncel\RentACarOtomasyon\UI\obj\Debug\UI.AdminAddModerator.resources
+E:\ensongüncel\RentACarOtomasyon\UI\obj\Debug\UI.AdminDeleteCar.resources
+E:\ensongüncel\RentACarOtomasyon\UI\obj\Debug\UI.AdminInterFace.resources
+E:\ensongüncel\RentACarOtomasyon\UI\obj\Debug\UI.AdminUpdateCarInformation.resources
+E:\ensongüncel\RentACarOtomasyon\UI\obj\Debug\UI.CustomerRentForm.resources
+E:\ensongüncel\RentACarOtomasyon\UI\obj\Debug\UI.LoginForm.resources
+E:\ensongüncel\RentACarOtomasyon\UI\obj\Debug\UI.Properties.Resources.resources
+E:\ensongüncel\RentACarOtomasyon\UI\obj\Debug\UI.UserInterFace.resources
+E:\ensongüncel\RentACarOtomasyon\UI\obj\Debug\UI.csproj.GenerateResource.cache
+E:\ensongüncel\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\ensongüncel\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CopyComplete
+E:\ensongüncel\RentACarOtomasyon\UI\obj\Debug\UI.exe
+E:\ensongüncel\RentACarOtomasyon\UI\obj\Debug\UI.pdb
+E:\lastest\RentACarOtomasyon\UI\bin\Debug\UI.exe.config
+E:\lastest\RentACarOtomasyon\UI\bin\Debug\UI.exe
+E:\lastest\RentACarOtomasyon\UI\bin\Debug\UI.pdb
+E:\lastest\RentACarOtomasyon\UI\bin\Debug\BLL.dll
+E:\lastest\RentACarOtomasyon\UI\bin\Debug\Entity.dll
+E:\lastest\RentACarOtomasyon\UI\bin\Debug\EntityFramework.dll
+E:\lastest\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.dll
+E:\lastest\RentACarOtomasyon\UI\bin\Debug\DAL.dll
+E:\lastest\RentACarOtomasyon\UI\bin\Debug\BLL.pdb
+E:\lastest\RentACarOtomasyon\UI\bin\Debug\Entity.pdb
+E:\lastest\RentACarOtomasyon\UI\bin\Debug\EntityFramework.xml
+E:\lastest\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.xml
+E:\lastest\RentACarOtomasyon\UI\bin\Debug\DAL.pdb
+E:\lastest\RentACarOtomasyon\UI\bin\Debug\DAL.dll.config
+E:\lastest\RentACarOtomasyon\UI\obj\Debug\UI.csprojAssemblyReference.cache
+E:\lastest\RentACarOtomasyon\UI\obj\Debug\UI.AdminAddCar.resources
+E:\lastest\RentACarOtomasyon\UI\obj\Debug\UI.AdminAddModerator.resources
+E:\lastest\RentACarOtomasyon\UI\obj\Debug\UI.AdminDeleteCar.resources
+E:\lastest\RentACarOtomasyon\UI\obj\Debug\UI.AdminInterFace.resources
+E:\lastest\RentACarOtomasyon\UI\obj\Debug\UI.AdminUpdateCarInformation.resources
+E:\lastest\RentACarOtomasyon\UI\obj\Debug\UI.CustomerRentForm.resources
+E:\lastest\RentACarOtomasyon\UI\obj\Debug\UI.LoginForm.resources
+E:\lastest\RentACarOtomasyon\UI\obj\Debug\UI.Properties.Resources.resources
+E:\lastest\RentACarOtomasyon\UI\obj\Debug\UI.UserInterFace.resources
+E:\lastest\RentACarOtomasyon\UI\obj\Debug\UI.csproj.GenerateResource.cache
+E:\lastest\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\lastest\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CopyComplete
+E:\lastest\RentACarOtomasyon\UI\obj\Debug\UI.exe
+E:\lastest\RentACarOtomasyon\UI\obj\Debug\UI.pdb
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\UI.exe.config
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\UI.exe
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\UI.pdb
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\BLL.dll
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\Entity.dll
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\EntityFramework.dll
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\DAL.dll
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\BLL.pdb
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\Entity.pdb
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\EntityFramework.xml
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\DAL.pdb
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\DAL.dll.config
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.AdminAddCar.resources
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.AdminAddModerator.resources
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.AdminDeleteCar.resources
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.AdminInterFace.resources
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.AdminUpdateCarInformation.resources
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.CustomerRentForm.resources
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.LoginForm.resources
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.UserInterFace.resources
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.exe
+C:\Users\gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.pdb
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\UI.exe.config
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\UI.exe
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\UI.pdb
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\BLL.dll
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\Entity.dll
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\EntityFramework.dll
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\DAL.dll
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\BLL.pdb
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\Entity.pdb
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\EntityFramework.xml
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\DAL.pdb
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\bin\Debug\DAL.dll.config
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.AdminAddCar.resources
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.AdminAddModerator.resources
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.AdminDeleteCar.resources
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.AdminInterFace.resources
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.AdminUpdateCarInformation.resources
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.CustomerRentForm.resources
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.LoginForm.resources
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.UserInterFace.resources
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.exe
+C:\Users\metin.gokduman\Desktop\Thelastest\RentACarOtomasyon\UI\obj\Debug\UI.pdb
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\UI.exe.config
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\UI.exe
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\UI.pdb
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\BLL.dll
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\Entity.dll
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\EntityFramework.dll
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\DAL.dll
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\BLL.pdb
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\Entity.pdb
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\EntityFramework.xml
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\DAL.pdb
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\DAL.dll.config
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.AdminAddCar.resources
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.AdminAddModerator.resources
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.AdminDeleteCar.resources
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.AdminInterFace.resources
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.AdminUpdateCarInformation.resources
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.CustomerRentForm.resources
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.LoginForm.resources
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.UserInterFace.resources
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.exe
+C:\Users\metin.gokduman\Desktop\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.pdb
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\UI.exe.config
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\UI.exe
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\UI.pdb
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\BLL.dll
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\Entity.dll
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\EntityFramework.dll
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\DAL.dll
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\BLL.pdb
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\Entity.pdb
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\EntityFramework.xml
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\DAL.pdb
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\bin\Debug\DAL.dll.config
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.AdminAddCar.resources
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.AdminAddModerator.resources
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.AdminDeleteCar.resources
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.AdminInterFace.resources
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.AdminUpdateCarInformation.resources
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.CustomerRentForm.resources
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.LoginForm.resources
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.UserInterFace.resources
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.exe
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.pdb
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.AdminAraYüzü.resources
+C:\Users\metin.gokduman\Desktop\Yeni klasör\Thelastest - Kopya\RentACarOtomasyon\UI\obj\Debug\UI.KullanıcıAraYüzü.resources
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\obj\Debug\UI.exe
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\obj\Debug\UI.pdb
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\bin\Debug\UI.exe.config
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\bin\Debug\UI.exe
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\bin\Debug\UI.pdb
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\bin\Debug\BLL.dll
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\bin\Debug\Entity.dll
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\bin\Debug\EntityFramework.dll
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\bin\Debug\DAL.dll
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\bin\Debug\BLL.pdb
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\bin\Debug\Entity.pdb
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\bin\Debug\EntityFramework.xml
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\bin\Debug\DAL.pdb
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\bin\Debug\DAL.dll.config
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\obj\Debug\UI.CarAdd.resources
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\obj\Debug\UI.AdminInterFace.resources
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\obj\Debug\UI.CarInfoUpdate.resources
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\obj\Debug\UI.Carlisting.resources
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\obj\Debug\UI.AdminRegisterInterface.resources
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\obj\Debug\UI.CarDeleting.resources
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\obj\Debug\UI.RentPage.resources
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\obj\Debug\UI.UserInterFace.resources
+C:\Users\metin.gokduman\Desktop\RentACarOtomasyon\UI\obj\Debug\UI.LoginPage.resources
+D:\1505rentecar\RentACarOtomasyon\UI\bin\Debug\UI.exe.config
+D:\1505rentecar\RentACarOtomasyon\UI\bin\Debug\UI.exe
+D:\1505rentecar\RentACarOtomasyon\UI\bin\Debug\UI.pdb
+D:\1505rentecar\RentACarOtomasyon\UI\bin\Debug\BLL.dll
+D:\1505rentecar\RentACarOtomasyon\UI\bin\Debug\Entity.dll
+D:\1505rentecar\RentACarOtomasyon\UI\bin\Debug\EntityFramework.dll
+D:\1505rentecar\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.dll
+D:\1505rentecar\RentACarOtomasyon\UI\bin\Debug\DAL.dll
+D:\1505rentecar\RentACarOtomasyon\UI\bin\Debug\BLL.pdb
+D:\1505rentecar\RentACarOtomasyon\UI\bin\Debug\Entity.pdb
+D:\1505rentecar\RentACarOtomasyon\UI\bin\Debug\EntityFramework.xml
+D:\1505rentecar\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.xml
+D:\1505rentecar\RentACarOtomasyon\UI\bin\Debug\DAL.pdb
+D:\1505rentecar\RentACarOtomasyon\UI\bin\Debug\DAL.dll.config
+D:\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.csprojAssemblyReference.cache
+D:\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.CarAdd.resources
+D:\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.AdminRegisterInterface.resources
+D:\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.AdminInterFace.resources
+D:\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.CarDeleting.resources
+D:\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.CarInfoUpdate.resources
+D:\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.RentPage.resources
+D:\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.UserInterFace.resources
+D:\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.LoginPage.resources
+D:\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.Properties.Resources.resources
+D:\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.Carlisting.resources
+D:\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CopyComplete
+D:\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.exe
+D:\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.pdb
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\bin\Debug\UI.exe.config
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\bin\Debug\UI.exe
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\bin\Debug\UI.pdb
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\bin\Debug\BLL.dll
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\bin\Debug\Entity.dll
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\bin\Debug\EntityFramework.dll
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\bin\Debug\DAL.dll
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\bin\Debug\BLL.pdb
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\bin\Debug\Entity.pdb
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\bin\Debug\EntityFramework.xml
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\bin\Debug\DAL.pdb
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\bin\Debug\DAL.dll.config
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.CarAdd.resources
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.AdminRegisterInterface.resources
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.AdminInterFace.resources
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.CarDeleting.resources
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.CarInfoUpdate.resources
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.RentPage.resources
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.UserInterFace.resources
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.LoginPage.resources
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.Carlisting.resources
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.exe
+C:\Users\gokduman\Desktop\1505rentecar\RentACarOtomasyon\UI\obj\Debug\UI.pdb
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\UI.exe.config
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\UI.exe
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\UI.pdb
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\BLL.dll
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\Entity.dll
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\EntityFramework.dll
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\DAL.dll
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\BLL.pdb
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\Entity.pdb
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\EntityFramework.xml
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\DAL.pdb
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\DAL.dll.config
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.CarAdd.resources
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.AdminRegisterInterface.resources
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.AdminInterFace.resources
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.CarDeleting.resources
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.CarInfoUpdate.resources
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.RentPage.resources
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.UserInterFace.resources
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.LoginPage.resources
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.Carlisting.resources
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.exe
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.pdb
+C:\Users\gokduman\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.ManagmentForms.AdminShowingCarKmPast.resources
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\UI.exe.config
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\UI.exe
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\UI.pdb
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\BLL.dll
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\Entity.dll
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\EntityFramework.dll
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\DAL.dll
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\BLL.pdb
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\Entity.pdb
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\EntityFramework.xml
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\DAL.pdb
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\bin\Debug\DAL.dll.config
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.ManagmentForms.AdminShowingCarKmPast.resources
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.CarAdd.resources
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.AdminRegisterInterface.resources
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.AdminInterFace.resources
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.CarDeleting.resources
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.CarInfoUpdate.resources
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.RentPage.resources
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.UserInterFace.resources
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.LoginPage.resources
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.Carlisting.resources
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.exe
+C:\Users\vstyl\Desktop\sdsadasdas\RentACarOtomasyon\UI\obj\Debug\UI.pdb
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\UI.exe.config
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\UI.exe
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\UI.pdb
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\BLL.dll
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\Entity.dll
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\EntityFramework.dll
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\DAL.dll
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\BLL.pdb
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\Entity.pdb
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\EntityFramework.xml
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\DAL.pdb
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\DAL.dll.config
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.ManagmentForms.AdminShowingCarKmPast.resources
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.CarAdd.resources
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.AdminRegisterInterface.resources
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.AdminInterFace.resources
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.CarDeleting.resources
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.CarInfoUpdate.resources
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.RentPage.resources
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.UserInterFace.resources
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.LoginPage.resources
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.Carlisting.resources
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.exe
+C:\Users\gokduman\Downloads\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.pdb
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\UI.exe.config
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\UI.exe
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\UI.pdb
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\BLL.dll
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\Entity.dll
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\EntityFramework.dll
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.dll
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\DAL.dll
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\BLL.pdb
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\Entity.pdb
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\EntityFramework.xml
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.xml
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\DAL.pdb
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\DAL.dll.config
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.csprojAssemblyReference.cache
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.ManagmentForms.AdminShowingCarKmPast.resources
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.CarAdd.resources
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.AdminRegisterInterface.resources
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.AdminInterFace.resources
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.CarDeleting.resources
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.CarInfoUpdate.resources
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.RentPage.resources
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.UserInterFace.resources
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.LoginPage.resources
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.Properties.Resources.resources
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.Carlisting.resources
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.csproj.GenerateResource.cache
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CopyComplete
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.exe
+F:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.pdb
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\UI.exe.config
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\UI.exe
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\UI.pdb
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\BLL.dll
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\Entity.dll
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\EntityFramework.dll
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.dll
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\DAL.dll
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\BLL.pdb
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\Entity.pdb
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\EntityFramework.xml
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\EntityFramework.SqlServer.xml
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\DAL.pdb
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\bin\Debug\DAL.dll.config
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.csprojAssemblyReference.cache
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.ManagmentForms.AdminShowingCarKmPast.resources
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.CarAdd.resources
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.AdminRegisterInterface.resources
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.AdminInterFace.resources
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.CarDeleting.resources
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.CarInfoUpdate.resources
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.RentPage.resources
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.UserInterFace.resources
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.LoginPage.resources
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.Properties.Resources.resources
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.Carlisting.resources
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.csproj.CopyComplete
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.exe
+D:\Rent a Car cihan\Rent a Car cihan\RentACarOtomasyon\UI\obj\Debug\UI.pdb
